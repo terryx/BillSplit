@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D03E46C6-7CDF-44FC-AA0C-84FF34CC8CC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BillSplit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C79C871D-EAEE-416D-A030-AE6D91733FE9</key>
+		<string>ssh://github.com/terryx/BillSplit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BillSplit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C79C871D-EAEE-416D-A030-AE6D91733FE9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/terryx/BillSplit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C79C871D-EAEE-416D-A030-AE6D91733FE9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C79C871D-EAEE-416D-A030-AE6D91733FE9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BillSplit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
